@@ -23,7 +23,7 @@ public class Student {
 	private String stdName;
 	
 	@Column(name="sgen")
-	private String stdGender;
+	private String stdGend;
 	
 	@Column(name="scourse")
 	private String stdCourse;
